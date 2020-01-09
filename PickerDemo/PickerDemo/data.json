@@ -1,0 +1,52 @@
+﻿[
+  {
+    "id": 3,
+    "value": "Liverpool",
+    "category": "UK"
+  },
+  {
+    "id": 4,
+    "value": "Manchester",
+    "category": "UK"
+  },
+  {
+    "id": 6,
+    "value": "Hyderabad",
+    "category": "India"
+  },
+  {
+    "id": 7,
+    "value": "Bangalore",
+    "category": "India"
+  },
+  {
+    "id": 10,
+    "value": "London",
+    "category": "UK"
+  },
+  {
+    "id": 11,
+    "value": "Jeddah",
+    "category": "Saudi Arabia"
+  },
+  {
+    "id": 12,
+    "value": "New york",
+    "category": "USA"
+  },
+  {
+    "id": 13,
+    "value": "Riyadh",
+    "category": "Saudi Arabia"
+  },
+  {
+    "id": 14,
+    "value": "Seattle",
+    "category": "USA"
+  },
+  {
+    "id": 15,
+    "value": "Washington",
+    "category": "USA"
+  }
+]
